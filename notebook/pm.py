@@ -1,8 +1,8 @@
 import papermill as pm
 
-train_start_date = '2020-08-26'
+#train_start_date = '2020-08-26'
 #train_start_date = '2020-09-02'
-#train_start_date = '2020-09-09'
+train_start_date = '2020-09-09'
 #train_start_date = '2020-09-16'
 
 pm.execute_notebook(
