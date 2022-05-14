@@ -31,3 +31,6 @@ $ python3 pm.py
   - calculate map by local cv
 - ranking_study.ipynb
   - for study
+
+### ./kernel
+- run at the kaggle kernel
