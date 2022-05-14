@@ -2,6 +2,9 @@
 
 ## How to use
 
+./notebook is old directory
+./notebook2 is the latest directory
+
 ### matching
 - run ranking.ipynb
   - generate ranking for backfill
